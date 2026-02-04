@@ -1,0 +1,6 @@
+print "Hello World"
+a = 1
+b = 3
+print (a+b)
+x = input("Enter some value for x")
+print(x)
